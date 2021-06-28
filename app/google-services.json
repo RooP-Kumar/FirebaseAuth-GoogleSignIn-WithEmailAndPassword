@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "741701746888",
+    "project_id": "fir-withemail-57550",
+    "storage_bucket": "fir-withemail-57550.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741701746888:android:1a76ac0a667a2c7c7d65fd",
+        "android_client_info": {
+          "package_name": "com.example.firebasewithemail"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741701746888-mdatclkdo55usbq6pk4v506n0uuo4cgp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAs-ZlfPUhWzpgssg5821F7c3h6NmKBqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741701746888-mdatclkdo55usbq6pk4v506n0uuo4cgp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
