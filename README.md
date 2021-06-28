@@ -3,6 +3,9 @@ I used all hardcore text, I know it is not best practice but this is only learni
 
 ![alt text](https://github.com/RooP-Kumar/FirebaseAuth-GoogleSignIn-WithEmailAndPassword/blob/master/screenshots/1.png)
 
+\n
+\n
+
 
 ![alt text](https://github.com/RooP-Kumar/FirebaseAuth-GoogleSignIn-WithEmailAndPassword/blob/master/screenshots/2.png)
 
